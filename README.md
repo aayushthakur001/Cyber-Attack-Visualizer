@@ -1,7 +1,3 @@
-# Cyber-Attack-Visualizer
- ![Cyber Attack Visualizer]
-
-
 # Cyber Attack Visualizer
 
 **Author:** Ayush Kumar Thakur
